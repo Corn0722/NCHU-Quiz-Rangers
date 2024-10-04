@@ -16,8 +16,7 @@
 <img width="60%" src="https://github.com/user-attachments/assets/115f4dad-209d-4389-b00a-cb3fb406ecae"/>
 
 4. 結算：成功答完30題或者提前按"q"結束答題後，即進入結算頁面，以及評語畫面
-<img width="40%" src="https://github.com/user-attachments/assets/fe952caf-23a1-47fb-9a7b-ade6113dfdd7"/>
-##
+<img width="40%" src="https://github.com/user-attachments/assets/ff1ebd1c-3045-412d-b927-535aae0a1c96"/>
 
 ## 開發工具：
  - 程式語言：Python
